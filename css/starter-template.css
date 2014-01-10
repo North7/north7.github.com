@@ -1,0 +1,35 @@
+
+
+body {
+  padding-top: 50px;
+}
+.North7 {
+ 
+  text-shadow: 1px 1px 3px #fff, -1px -1px 2px #666;
+  color: #e5e5e5;
+
+}
+.headerBox{
+	  padding: 40px 15px;
+  text-align: center;
+}
+.lead{
+
+ text-shadow: 1px 1px 3px #fff, -1px -1px 2px #aaa;
+  color: #e3e3e3;
+}
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+
